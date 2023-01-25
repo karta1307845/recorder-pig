@@ -1,1 +1,4 @@
 runtime: nodejs18 # or another supported version
+
+env_variables:
+  LINE_ACCESS_TOKEN: yE1jooE5x7qjjaK7irIVgP8qz+NbrnXK5zD4Lt09tdAvDhZSjmeaV3YlQNwFRd/BH7QNBvF/tCdjd9K8e3aOB/9+NcRq6i02jgikvZOzNNQO8WRQxzEr6Uthfgbcb6MMZk8I9imuCZi1H61y7XfikgdB04t89/1O/w1cDnyilFU=
